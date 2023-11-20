@@ -3,7 +3,7 @@
 
 ###興趣
 :lion:read\
-:lion:watch movie
+:lion:watch movie\
 
 ###現職
 :lion:輔仁大學統計資訊學系三年級\
